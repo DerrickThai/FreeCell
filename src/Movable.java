@@ -3,7 +3,7 @@ import java.awt.Point;
 
 /**
  * Behaviour for a Movable object (GCard or Tableau).
- * @author Ridout
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public interface Movable

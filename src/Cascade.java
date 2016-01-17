@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /**
  * Keeps track of a Cascade and the number of open Cascades.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public class Cascade extends GHand

@@ -12,7 +12,7 @@ import javax.swing.ImageIcon;
  * each Card. Includes methods to construct a new Card, look at and change a
  * Card's position and draw this Card.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  * 
  */

@@ -4,7 +4,7 @@ import java.awt.Point;
  * Keeps track of a FreeCell. FreeCells are only one Card, but code is
  * simplified if we assume a FreeCell is a GHand.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public class FreeCell extends GHand

@@ -14,7 +14,7 @@ import javax.swing.Timer;
 /**
  * Looks after most of the FreeCell Game.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public class CardPanel extends JPanel implements MouseListener,

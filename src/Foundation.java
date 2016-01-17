@@ -3,7 +3,7 @@ import java.awt.Point;
 /**
  * Keeps track of a Foundation.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public class Foundation extends GHand

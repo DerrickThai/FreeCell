@@ -5,7 +5,7 @@ import java.awt.Point;
  * Keeps track of a Graphical Deck (GDeck). Inherits data and methods from Deck.
  * Keeps track of this Deck's position. Includes methods to construct this Deck,
  * shuffle the Deck, deal GCards from this Deck and to draw this Deck.
- * @author Ridout
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public class GDeck extends Deck

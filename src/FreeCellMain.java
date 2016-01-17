@@ -24,7 +24,7 @@ import java.net.URL;
  * Main Frame for a Simple FreeCell game. Sets up the menus and places a
  * CardPanel in the Frame.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 public class FreeCellMain extends JFrame implements ActionListener,
@@ -225,9 +225,11 @@ public class FreeCellMain extends JFrame implements ActionListener,
 		}
 		else if (event.getSource() == aboutMenuItem)
 		{
-			JOptionPane.showMessageDialog(cardArea,
-					"FreeCell by Ridout\nand Derrick Thai\n\u00a9 2014",
-					"About FreeCell", JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane
+					.showMessageDialog(
+							cardArea,
+							"FreeCell\nProgramming: Derrick Thai\nGraphics: Gord Ridout\n\u00a9 2014",
+							"About FreeCell", JOptionPane.INFORMATION_MESSAGE);
 		}
 		else if (event.getSource() == howToPlayItem)
 		{

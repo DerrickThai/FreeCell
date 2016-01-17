@@ -15,7 +15,7 @@ import java.awt.Rectangle;
  * object from this Hand given a selection point and to pick up a Movable object
  * from this Hand, given a selection point.
  * 
- * @author Ridout and Derrick Thai
+ * @author Derrick Thai and Gord Ridout
  * @version November 2014
  */
 

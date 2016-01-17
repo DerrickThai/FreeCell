@@ -1,6 +1,6 @@
 /**
  * Keeps track of a Move and can undo a Move.
- * @author ICS4U and Derrick Thai
+ * @author Derrick Thai
  * @version November 2014
  */
 public class Move
